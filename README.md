@@ -10,12 +10,12 @@
 # <picture><img src = "https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width = 50px></picture> **About me**
 
 <a target="_blank" align="center">
-  <img class="center" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
+  <img align="left" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
 </a>
 
 <br/>
 <p align="center" style="color:green;font-weight:700;font-size:24px"><i> "I am an aspiring front-end web developer. I have been interested in IT, especially web programming for some times now. I love to gain more experience in this field and I am ready to apply my passion for coding to a company willing to offer me a place among their developers."</i> </p>
-
+<br/>
 # <h3 align="left"><img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools:</h3>
 
 <p align="left"> 
@@ -49,7 +49,6 @@
       
 </p>
 
-#
 <h3 align="left" > <img src="https://media.giphy.com/media/H7a4nMx9Zdhvm2HySH/giphy.gif" width="30" height="30" style="margin-right: 10px;">Let's have a chat 👋 </h3>
 <p align="left">
  
