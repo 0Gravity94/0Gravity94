@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Patrick+Hand&size=30&pause=1000&color=42F742&background=FFBCB400&center=true&vCenter=true&width=435&lines=Aspiring+Frontend+Developer;Love+Coding+%26+Video+Games">
 </h1>
 
-# <picture><img src = "https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width = 50px></picture> **About me**
+ <picture><img src = "https://media.giphy.com/media/fAbbq1tF99d0uiizsr/giphy.gif" width = 50px></picture> **About me**
 
 <a target="_blank" align="center">
   <img align="left" top="500" height="400" width="400" alt="GIF" src="https://media.giphy.com/media/paTz7UZbPfTZFRYnnB/giphy.gif">
@@ -16,7 +16,7 @@
 <br/>
 <p align="center" style="color:green;font-weight:700;font-size:24px"><i> "I am an aspiring front-end web developer. I have been interested in IT, especially web programming for some times now. I love to gain more experience in this field and I am ready to apply my passion for coding to a company willing to offer me a place among their developers."</i> </p>
 <br/>
-# <h3 align="left"><img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools:</h3>
+<h3 align="left"><img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools:</h3>
 
 <p align="left"> 
   
