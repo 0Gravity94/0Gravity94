@@ -1,7 +1,6 @@
 <h1 align="center">
-  <h2>Hi! I'm Rainisa Sofhia </h2> 
-  <h2>Welcome to my space! </h2>
-  <img src="https://media.giphy.com/media/mBSeE1Q3yxcb0XoSKh/giphy.gif" width="35">
+  <br>Hi! I'm Rainisa Sofhia </br> 
+  <br>Welcome to my space! </br><img src="https://media.giphy.com/media/mBSeE1Q3yxcb0XoSKh/giphy.gif" width="35">
   </h1>
 
 <p align="center">
