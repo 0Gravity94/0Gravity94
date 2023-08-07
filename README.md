@@ -14,7 +14,7 @@
 </a>
 
 <br/>
-<p align="center" style="color:green;font-weight:700;font-size:24px"><i> "I am an aspiring frontend developer. I have been interested in IT, especially web programming for some times now. I love to gain more experience in this field and I am ready to apply my passion for coding to a company willing to offer me a place among their developers."</i> </p>
+<p align="center" style="color:green;font-weight:700;font-size:24px"><i> "Junior frontend developer enthusiast in developing user interfaces for web applications. Skilled in HTML ,CSS, Javascript, ReactJS and TailwindCSS. Able to effectively self-manage during independent projects, as well as collaborate as part of a productive team."</i> </p>
 <br/>
 <h3 align="left"><img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="30" height="30" style="margin-right: 10px;">Languages and Tools:</h3>
 
